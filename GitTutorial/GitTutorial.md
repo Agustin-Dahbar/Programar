@@ -309,6 +309,8 @@ git push -u origin main <!--En mi caso reemplazar main por "master" que es el no
 <!-- No me salieron las mismas opciones que a el. (La de ingresar usuario y la contraseña). -->
 <!--La contraseña debera obtenerse en GitHub: --> Settings --> Developer Settings --> Personal Access Token --> Generate New Token
 
+
+<!-- Enviar nuevas ramas creadas a GitHub -->
 <!-- AGREGAMOS LA RAMA SECUNDARIO, RAMAB -->
 <!-- Debemos cambiar de rama, para recordar los nombres podemos verlas con:  -->
 git branch
